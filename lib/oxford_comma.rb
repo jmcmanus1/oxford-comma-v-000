@@ -1,2 +1,3 @@
-def oxford_comma(array_of_strings)
+def oxford_comma(array)
+  array.join(" , " )
 end
